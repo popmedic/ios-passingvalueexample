@@ -1,4 +1,4 @@
-# ios-passingvalueexmple
+# ios-passingvalueexample
 
 Please note:
 
